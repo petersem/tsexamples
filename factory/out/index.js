@@ -8,4 +8,7 @@ myTesla.drive(); // Outputs: You are driving a Tesla
 var myMercedes = carFactory.createCar('Mercedes');
 myMercedes.engineSize = 8;
 myMercedes.drive(); // Outputs: You are driving a Mercedes
+var myFiat = carFactory.createCar('Fiat');
+myFiat.engineSize = 4;
+myFiat.drive(); // Outputs: You are driving a Mercedes
 //# sourceMappingURL=index.js.map
