@@ -1,0 +1,19 @@
+{
+  "name": "tsexamples",
+  "version": "1.0.0",
+  "description": "Typescript examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petersem/tsexamples.git"
+  },
+  "author": "Matt Petersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petersem/tsexamples/issues"
+  },
+  "homepage": "https://github.com/petersem/tsexamples#readme"
+}
