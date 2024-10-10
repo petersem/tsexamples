@@ -1,9 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.CarFactory = void 0;
-const tesla_1 = require("./tesla");
-const mercedes_1 = require("./mercedes");
-const fiat_1 = require("./fiat");
+const tesla_1 = require("./cars/tesla");
+const mercedes_1 = require("./cars/mercedes");
+const fiat_1 = require("./cars/fiat");
 class CarFactory {
     createCar(type) {
         if (type === 'Tesla') {

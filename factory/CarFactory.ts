@@ -1,7 +1,7 @@
-import { Tesla } from "./../cars/tesla";
-import { Mercedes } from "./../cars/mercedes";
-import { Fiat } from "./../cars/fiat";
-import { iCar } from "./../cars/iCar";
+import { Tesla } from "./cars/tesla";
+import { Mercedes } from "./cars/mercedes";
+import { Fiat } from "./cars/fiat";
+import { iCar } from "./cars/iCar";
 
 export class CarFactory {
     createCar(type: string): iCar {
