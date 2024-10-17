@@ -1,0 +1,123 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which one of these is scientific term for &quot;Brain Freeze&quot;?",
+            "correct_answer": "Sphenopalatine Ganglioneuralgia",
+            "incorrect_answers": [
+                "Hyacinthoides Italica",
+                "Amaranthus Retroflexus",
+                "Amblyomma Americanum"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Which of these Movies was NOT released in 1996?",
+            "correct_answer": "Gladiator",
+            "incorrect_answers": [
+                "Independence Day",
+                "The Rock",
+                "Mission: Impossible"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "What mineral has the lowest number on the Mohs scale?",
+            "correct_answer": "Talc",
+            "incorrect_answers": [
+                "Quartz",
+                "Diamond",
+                "Gypsum"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Art",
+            "question": "Which artist&rsquo;s studio was known as &#039;The Factory&#039;?",
+            "correct_answer": "Andy Warhol",
+            "incorrect_answers": [
+                "Roy Lichtenstein",
+                "David Hockney",
+                "Peter Blake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which is the chemical name of H2O?",
+            "correct_answer": "Dihydrogen Monoxide",
+            "incorrect_answers": [
+                "Ammonium chloride",
+                "Anhydrous Sodium Carbonate",
+                "Manganese dioxide"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Highschool of the Dead&quot;, where did Komuro and Saeko establish to meet after the bus explosion?",
+            "correct_answer": "Eastern Police Station",
+            "incorrect_answers": [
+                "The Center Mall",
+                "Komuro&#039;s House",
+                "On The Main Bridge"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "What is the mnemonic device for remembering the fates of the wives of Henry VIII?",
+            "correct_answer": "Divorced, Beheaded, Died, Divorced, Beheaded, Survived",
+            "incorrect_answers": [
+                "Beheaded, Died, Divorced, Divorced, Beheaded, Survived",
+                "Died, Beheaded, Divorced, Beheaded, Survived, Divorced",
+                "Survived, Beheaded, Died, Divorced, Divorced, Beheaded"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Which essential condiment is also known as Japanese horseradish?",
+            "correct_answer": "Wasabi ",
+            "incorrect_answers": [
+                "Mentsuyu",
+                "Karashi",
+                "Ponzu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+            "correct_answer": "Brasil",
+            "incorrect_answers": [
+                "Brazil",
+                "Brasilia",
+                "Bras&iacute;l"
+            ]
+        }
+    ]
+}
